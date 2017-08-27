@@ -1,13 +1,10 @@
 # Change Log
 All notable changes to the "snazzy-operator" extension will be documented in this file.
 
-## 1.1.2
-- Better consistency with title bar and activity bar
-- Update screenshot
+## 1.2.0
+- Added darker colors for signs `<>` in html and `{}()[]` in their literal uses so they fade in the background better
+- Added brighter colors for some JavaScript keywords like const, let, var, extend (storage type)
+- Added darker colors for function calls inside an object
+- A bunch of others: function parameters, import/export keywords, keys in object literals and their symbol `:`
 
-## 1.1.0
-- Updated MacOS titlebar colour
-- Updated statusBar colours for different states
-
-## 1.0.0
-- Initial release
+Old changelog can be seen [here](https://github.com/aaronthomas/vscode-snazzy-operator/blob/master/CHANGELOG.md).

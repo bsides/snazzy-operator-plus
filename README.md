@@ -1,4 +1,6 @@
-# VS Code Snazzy Operator
+# VS Code Snazzy Operator Plus
+
+This is some edits I did for myself since the original repo doesn't seem to be active anymore. Basically I added some colors to try to remove some of the "whiteness" of the text while writting JavaScript.
 
 [![](http://vsmarketplacebadge.apphb.com/version/aaronthomas.vscode-snazzy-operator.svg)](https://marketplace.visualstudio.com/items/aaronthomas.vscode-snazzy-operator)
 

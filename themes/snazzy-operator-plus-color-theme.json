@@ -508,7 +508,7 @@
       }
     },
     {
-      "name": "With this on, function calls can have an actual collor",
+      "name": "Function calls can have an actual collor",
       "scope": "variable.function",
       "settings": {
         "foreground": "#C95297"
@@ -550,9 +550,15 @@
     },
     {
       "name": "Curly braces that doesnt need highlight",
-      "scope": "meta.brace.curly.begin.js, meta.brace.curly.end.js",
+      "scope": "meta.brace.curly.begin.js, meta.brace.curly.end.js, meta.brace.round.begin.js, meta.brace.round.end.js, meta.brace.square.begin.js, meta.brace.square.end.js",
       "settings": {
-        "foreground": "#999"
+        "foreground": "#999999"
+      }
+    },
+    {
+      "scope": "string.interpolated.js",
+      "settings": {
+        "background": "#ffffff"
       }
     }
   ],
