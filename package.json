@@ -1,7 +1,7 @@
 {
   "name": "snazzy-operator-plus",
   "displayName": "Snazzy Operator Plus",
-  "description": "VS Code theme based on hyper-snazzy and optimised for Operator Mono",
+  "description": "Visual Studio Code theme based on hyper-snazzy and optimised for Operator Mono",
   "version": "1.2.0",
   "publisher": "bsides",
   "license": "MIT",
@@ -27,5 +27,12 @@
       }
     ]
   },
-  "keywords": ["theme", "snazzy", "operator", "operator mono", "snazzy theme"]
+  "keywords": [
+    "theme",
+    "snazzy",
+    "operator",
+    "operator mono",
+    "snazzy theme",
+    "snazzy operator plus"
+  ]
 }
