@@ -1,24 +1,23 @@
-# VS Code Snazzy Operator Plus
-
-This is some edits I did for myself since the original repo doesn't seem to be active anymore. Basically I added some colors to try to remove some of the "whiteness" of the text while writting JavaScript.
-
-[![](http://vsmarketplacebadge.apphb.com/version/aaronthomas.vscode-snazzy-operator.svg)](https://marketplace.visualstudio.com/items/aaronthomas.vscode-snazzy-operator)
+# Snazzy Operator Plus
 
 A VS Code theme based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) and optimised for use with the [Operator Mono](https://www.typography.com/fonts/operator/overview/) font.
 
+I did these edits for myself since [the original repo](https://github.com/aaronthomas/vscode-snazzy-operator) doesn't seem to be active anymore. Basically I added some colors to try to remove some of the "whiteness" of the text while writting JavaScript. [Quotting Dracula](https://github.com/bsides/snazzy-operator-plus/blob/master/dracula.png): But enough talk, have at you!
+
 ## Installation
 
-The theme is available on the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=aaronthomas.vscode-snazzy-operator) and can be installed in VS Code via Quick Open (⌘P) by running:
+The theme is available on the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=bsides.snazzy-operator-plus) and can be installed in VS Code via Quick Open (⌘P | ⌃P) by running:
 
 ```
-ext install vscode-snazzy-operator
+ext install snazzy-operator-plus
 ```
 
-Alternatively it can be found using the Extensions search feature (⇧⌘X).
+Alternatively it can be found using the Extensions search feature (⇧⌘X | ⌃⇧X).
 
 ## Screenshot
-![snazzy-operator](https://raw.githubusercontent.com/aaronthomas/vscode-snazzy-operator/master/preview.png)
+![snazzy-operator](https://github.com/bsides/vscode-snazzy-operator-plus/blob/master/preview.png)
 
 ## Credits
+* [vscode-snazzy-operator](https://github.com/aaronthomas/vscode-snazzy-operator)
 * [vscode-snazzy](https://github.com/alexanderbast/vscode-snazzy)
 * [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy)

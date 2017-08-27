@@ -1,17 +1,17 @@
 {
-  "name": "vscode-snazzy-operator-plus",
+  "name": "snazzy-operator-plus",
   "displayName": "Snazzy Operator Plus",
-  "description": "Based on hyper-snazzy and optimised for Operator Mono",
+  "description": "VS Code theme based on hyper-snazzy and optimised for Operator Mono",
   "version": "1.2.0",
   "publisher": "bsides",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bsides/vscode-snazzy-operator-plus/issues"
+    "url": "https://github.com/bsides/snazzy-operator-plus/issues"
   },
-  "homepage": "https://github.com/bsides/vscode-snazzy-operator-plus",
+  "homepage": "https://github.com/bsides/snazzy-operator-plus",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bsides/vscode-snazzy-operator-plus"
+    "url": "https://github.com/bsides/snazzy-operator-plus"
   },
   "engines": {
     "vscode": "^1.12.0"
