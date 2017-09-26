@@ -114,6 +114,16 @@
       }
     },
     {
+      "name": "Escape Characters",
+      "scope": [
+        "constant.character.escape",
+        "constant.other"
+      ],
+      "settings": {
+        "foreground": "#ffd3d9"
+      }
+    },
+    {
       "name": "Class",
       "scope": "entity.name.type.class",
       "settings": {
